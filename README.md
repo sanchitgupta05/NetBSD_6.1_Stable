@@ -41,7 +41,6 @@ and pursue it if feasible, as it is much tidier. (Note that attaching data also 
 specifying a locking model and, for writeable data, possibly a condition variable to signal on when
 the value changes.)
 
-(Mentor: Julio Merino)
 
 
 Sanchit Gupta
